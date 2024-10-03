@@ -1,4 +1,4 @@
 const String Publishablekey =
-    "pk_test_51PkTvn2LISWpo5DxWLeEanYMg1EVtAU1M3XY6LF9ObcLbFvwYnQDzTSyWPlsWwhrm16iMMz1y6H9u0f96Z4jP4MB00WVm6ndIF";
+    "Use your keys";
 const String Secretkey =
-    "sk_test_51PkTvn2LISWpo5Dx778TsY8Hq75qUan6rgbGOUlgzTlHiYJRc76d1zfrVmWq9iwKBJFVUyAiSU8puNpMXA4SDvpv001UYgQ8DT";
+    "Use your keys";
